@@ -2,7 +2,7 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>items</key>
+	<key>vasayo.ipa</key>
 	<array>
 		<dict>
 			<key>assets</key>
@@ -14,16 +14,51 @@
 					<string>https://wkevin35.github.io/vasayoTW/vasayo.ipa</string>
 				</dict>
 			</array>
-			<key>metadata</key>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>bitcode</key>
+			<true/>
+			<key>certificate</key>
 			<dict>
-				<key>bundle-identifier</key>
-				<string>com.appplus.BusinessCard.twvasayo</string>
-				<key>bundle-version</key>
-				<string>1.0.1</string>
-				<key>kind</key>
-				<string>software</string>
-				<key>title</key>
-				<string>維善優台灣</string>
+				<key>SHA1</key>
+				<string>D561D7BD2490A622BEE0F545EF76FE020575AC15</string>
+				<key>dateExpires</key>
+				<string>2021/9/16</string>
+				<key>type</key>
+				<string>Apple Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>VQA7A9FJW2.com.appplus.BusinessCards.twvasayo.taiwan</string>
+				<key>aps-environment</key>
+				<string>production</string>
+				<key>beta-reports-active</key>
+				<true/>
+				<key>com.apple.developer.team-identifier</key>
+				<string>VQA7A9FJW2</string>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>維善優台灣.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>c754ae38-0556-4e8f-ace8-bbab6aed8743</string>
+				<key>name</key>
+				<string>iOS Team Store Provisioning Profile: com.appplus.BusinessCards.twvasayo.taiwan</string>
+			</dict>
+			<key>symbols</key>
+			<true/>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>VQA7A9FJW2</string>
+				<key>name</key>
+				<string>APP PLUS</string>
 			</dict>
 		</dict>
 	</array>
