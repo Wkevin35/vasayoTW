@@ -17,7 +17,7 @@
         <key>metadata</key>
         <dict>
             <key>bundle-identifier</key>
-            <string>com.appplus.BusinessCards.vasayo.taiwan</string>
+            <string>com.appplus.BusinessCards.twvasayo.taiwan</string>
             <key>bundle-version</key>
             <string>2.0.0</string>
             <key>kind</key>
